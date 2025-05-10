@@ -1,0 +1,40 @@
+{
+  "cases": [
+    {
+      "id": "ZAECGHC_2023_15",
+      "title": "Smith v Minister of Justice",
+      "court": "Eastern Cape High Court",
+      "date": "2023-06-12",
+      "summary": "This case involved a constitutional challenge to the procedural fairness of administrative detention under the Immigration Act.",
+      "full_text_url": "https://www.saflii.org/za/cases/ZAECGHC/2023/15.html",
+      "precedents_cited": [
+        "Minister of Home Affairs v Watchenuka 2004 (4) SA 326 (SCA)",
+        "Masetlha v President of the RSA 2008 (1) SA 566 (CC)"
+      ]
+    },
+    {
+      "id": "ZACC_2022_9",
+      "title": "Economic Freedom Fighters v Speaker of the National Assembly",
+      "court": "Constitutional Court of South Africa",
+      "date": "2022-03-10",
+      "summary": "The Court dealt with the legality of a motion of no confidence and the obligation of Parliament to hold the executive accountable.",
+      "full_text_url": "https://www.saflii.org/za/cases/ZACC/2022/9.html",
+      "precedents_cited": [
+        "Mazibuko v Sisulu 2013 (6) SA 249 (CC)",
+        "Doctors for Life International v Speaker of the National Assembly 2006 (6) SA 416 (CC)"
+      ]
+    },
+    {
+      "id": "ZAWCHC_2023_30",
+      "title": "City of Cape Town v Rand Properties",
+      "court": "Western Cape High Court",
+      "date": "2023-09-18",
+      "summary": "This judgment clarified municipal obligations in terms of housing and evictions under the PIE Act.",
+      "full_text_url": "https://www.saflii.org/za/cases/ZAWCHC/2023/30.html",
+      "precedents_cited": [
+        "Occupiers of 51 Olivia Road v City of Johannesburg 2008 (3) SA 208 (CC)",
+        "Port Elizabeth Municipality v Various Occupiers 2005 (1) SA 217 (CC)"
+      ]
+    }
+  ]
+}
