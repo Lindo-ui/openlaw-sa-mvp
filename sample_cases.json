@@ -1,40 +1,339 @@
-{
-  "cases": [
-    {
-      "id": "ZAECGHC_2023_15",
-      "title": "Smith v Minister of Justice",
-      "court": "Eastern Cape High Court",
-      "date": "2023-06-12",
-      "summary": "This case involved a constitutional challenge to the procedural fairness of administrative detention under the Immigration Act.",
-      "full_text_url": "https://www.saflii.org/za/cases/ZAECGHC/2023/15.html",
-      "precedents_cited": [
-        "Minister of Home Affairs v Watchenuka 2004 (4) SA 326 (SCA)",
-        "Masetlha v President of the RSA 2008 (1) SA 566 (CC)"
-      ]
-    },
-    {
-      "id": "ZACC_2022_9",
-      "title": "Economic Freedom Fighters v Speaker of the National Assembly",
-      "court": "Constitutional Court of South Africa",
-      "date": "2022-03-10",
-      "summary": "The Court dealt with the legality of a motion of no confidence and the obligation of Parliament to hold the executive accountable.",
-      "full_text_url": "https://www.saflii.org/za/cases/ZACC/2022/9.html",
-      "precedents_cited": [
-        "Mazibuko v Sisulu 2013 (6) SA 249 (CC)",
-        "Doctors for Life International v Speaker of the National Assembly 2006 (6) SA 416 (CC)"
-      ]
-    },
-    {
-      "id": "ZAWCHC_2023_30",
-      "title": "City of Cape Town v Rand Properties",
-      "court": "Western Cape High Court",
-      "date": "2023-09-18",
-      "summary": "This judgment clarified municipal obligations in terms of housing and evictions under the PIE Act.",
-      "full_text_url": "https://www.saflii.org/za/cases/ZAWCHC/2023/30.html",
-      "precedents_cited": [
-        "Occupiers of 51 Olivia Road v City of Johannesburg 2008 (3) SA 208 (CC)",
-        "Port Elizabeth Municipality v Various Occupiers 2005 (1) SA 217 (CC)"
-      ]
-    }
-  ]
-}
+[
+  {
+    "case_id": "CCT 3/94",
+    "title": "S v Makwanyane and Another",
+    "court": "Constitutional Court of South Africa",
+    "date": "1995-06-06",
+    "summary": "The Constitutional Court unanimously struck down the death penalty in South Africa, finding it incompatible with the Interim Constitution\u2019s commitment to human rights. The court\u2019s landmark judgment held that capital punishment violates the rights to life and dignity, and constitutes cruel, inhuman and degrading punishment. It invalidated the statute permitting the death sentence and prohibited any executions under that law. This was the new Court\u2019s first major human-rights decision, affirming that even the worst criminals must not be deprived of life and dignity by the state.",
+    "precedents_cited": [
+      "S v Makwanyane en \u2019n Ander [1994] ZASCA 76; 1994 (3) SA 868 (AD)",
+      "Furman v Georgia, 408 U.S. 238 (1972)",
+      "Kindler v Canada (Minister of Justice) [1991] 2 SCR 779 (SCC)"
+    ],
+    "citations": [
+      "[1995] ZACC 3",
+      "1995 (3) SA 391 (CC)",
+      "1995 (6) BCLR 665 (CC)"
+    ],
+    "tags": [
+      "criminal law",
+      "constitutional rights",
+      "death penalty"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/1995/3.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/1995/3.pdf"
+  },
+  {
+    "case_id": "CCT 11/00",
+    "title": "Government of the Republic of South Africa and Others v Grootboom and Others",
+    "court": "Constitutional Court of South Africa",
+    "date": "2000-10-04",
+    "summary": "A unanimous Constitutional Court decision that defined the state\u2019s obligations to realize the right of access to adequate housing. The Court held that government must \u201cact positively to ameliorate the plight\u201d of people living in intolerable conditions, by adopting reasonable policies to provide access to housing, water, food and social security for those unable to support themselves. Socio-economic rights were deemed justiciable and interdependent with other rights, and the Court emphasized that \u201call the rights in the Bill of Rights are inter-related and mutually supporting\u201d. The Court declared the state\u2019s housing program deficient for failing to assist people in a crisis situation and ordered authorities to devise and implement a reasonable program to provide relief for homeless people in desperate need.",
+    "precedents_cited": [
+      "Ex parte Chairperson of the Constitutional Assembly: In re Certification of the Constitution of the Republic of South Africa, 1996 (4) SA 744 (CC)",
+      "Soobramoney v Minister of Health (KwaZulu-Natal) [1997] ZACC 17; 1998 (1) SA 765 (CC)",
+      "Grootboom v Oostenberg Municipality 2000 (3) BCLR 277 (C) (High Court)"
+    ],
+    "citations": [
+      "[2000] ZACC 19",
+      "2001 (1) SA 46 (CC)",
+      "2000 (11) BCLR 1169 (CC)"
+    ],
+    "tags": [
+      "housing",
+      "socio-economic rights"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/2000/19.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/2000/19.pdf"
+  },
+  {
+    "case_id": "CCT 53/03",
+    "title": "Port Elizabeth Municipality v Various Occupiers",
+    "court": "Constitutional Court of South Africa",
+    "date": "2004-10-01",
+    "summary": "This case addressed evictions of unlawful occupiers under the new constitutional and statutory framework (the PIE Act). The Constitutional Court stressed that courts must \"infuse elements of grace and compassion into the formal structures of the law\" when considering eviction applications. It held that an eviction order should only be granted if it is just and equitable after considering all relevant circumstances, including the needs of vulnerable groups (such as children, the elderly and women-headed households) and whether alternative land or accommodation is available. The judgment pioneered a mediated, humane approach to evictions, balancing the property rights of landowners with the dignity and housing rights of unlawful occupiers.",
+    "precedents_cited": [
+      "Government of the Republic of South Africa v Grootboom [2000] ZACC 19 (CC)",
+      "Ndlovu v Ngcobo; Bekker v Jika 2003 (1) SA 113 (SCA)",
+      "Prevention of Illegal Eviction from and Unlawful Occupation of Land Act 19 of 1998 (PIE)"
+    ],
+    "citations": [
+      "[2004] ZACC 7",
+      "2005 (1) SA 217 (CC)",
+      "2004 (12) BCLR 1268 (CC)"
+    ],
+    "tags": [
+      "housing",
+      "eviction",
+      "PIE Act"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/2004/7.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/2004/7.pdf"
+  },
+  {
+    "case_id": "CCT 60/04",
+    "title": "Minister of Home Affairs and Another v Fourie and Another; Lesbian and Gay Equality Project and Others v Minister of Home Affairs",
+    "court": "Constitutional Court of South Africa",
+    "date": "2005-12-01",
+    "summary": "The Constitutional Court\u2019s judgment in Fourie legalized same-sex marriage in South Africa. The Court unanimously held that the common-law definition of marriage and the Marriage Act, to the extent that they excluded same-sex couples, violated the equality clause (section 9 of the Constitution) and the dignity of gay and lesbian people. Writing for the Court, Sachs J ruled that the heterosexist definition was unfairly discriminatory and could not be justified. The Court suspended its order for one year to allow Parliament to cure the defect by amending or enacting legislation to include same-sex couples in the institution of marriage. This decision paved the way for the Civil Union Act 2006, making South Africa the first African country to recognise same-sex marriage.",
+    "precedents_cited": [
+      "National Coalition for Gay and Lesbian Equality v Minister of Justice [1998] ZACC 15; 1999 (1) SA 6 (CC)",
+      "National Coalition for Gay and Lesbian Equality v Minister of Home Affairs [1999] ZACC 17; 2000 (2) SA 1 (CC)",
+      "Satchwell v President of the Republic of South Africa [2002] ZACC 18; 2002 (6) SA 1 (CC)"
+    ],
+    "citations": [
+      "[2005] ZACC 19",
+      "2006 (1) SA 524 (CC)",
+      "2006 (3) BCLR 355 (CC)"
+    ],
+    "tags": [
+      "equality",
+      "LGBT rights",
+      "marriage"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/2005/19.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/2005/19.pdf"
+  },
+  {
+    "case_id": "CCT 11/98",
+    "title": "National Coalition for Gay and Lesbian Equality and Others v Minister of Justice and Others",
+    "court": "Constitutional Court of South Africa",
+    "date": "1998-10-09",
+    "summary": "A landmark LGBTQ+ rights case in which the Constitutional Court unanimously struck down laws criminalising consensual sex between men. The Court confirmed a High Court ruling that the common-law crime of sodomy and section 20A of the Sexual Offences Act 1957 (which prohibited sexual acts between men at a party) were unconstitutional. These provisions were found to violate the equality and dignity clauses of the Constitution by unfairly discriminating against gay men. The judgment emphasized that the Constitution requires respect for all individuals\u2019 sexual orientation, and it was the first in a series of decisions extending equal rights to LGBT people in South Africa.",
+    "precedents_cited": [
+      "Dudgeon v United Kingdom (1981) 4 EHRR 149 (ECtHR)",
+      "Norris v Ireland (1988) 13 EHRR 186 (ECtHR)",
+      "Toonen v Australia, CCPR/C/50/D/488/1992 (UNHRC, 1994)"
+    ],
+    "citations": [
+      "[1998] ZACC 15",
+      "1999 (1) SA 6 (CC)",
+      "1998 (12) BCLR 1517 (CC)"
+    ],
+    "tags": [
+      "equality",
+      "privacy",
+      "LGBT rights"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/1998/15.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/1998/15.pdf"
+  },
+  {
+    "case_id": "CCT 48/00",
+    "title": "Carmichele v Minister of Safety and Security and Another",
+    "court": "Constitutional Court of South Africa",
+    "date": "2001-08-16",
+    "summary": "This decision broke new ground in holding the state accountable for failing to protect individuals from violent crime. The applicant, a woman who was brutally attacked by a man released on bail despite a history of sexual violence, sued the police and prosecutors for negligence. The Constitutional Court held that the State can be delictually liable for harm caused by its omission to protect a person when reasonable steps by police or prosecutors could have prevented the harm. The Court invoked section 39(2) of the Constitution, which obliges courts to develop the common law in line with the \u201cspirit, purport and objects\u201d of the Bill of Rights. It found that the lower courts had failed to give effect to this duty, and it ordered that the negligence claim be reconsidered in light of the Constitution. Carmichele thus affirmed that public authorities have a duty of care to act against known threats, especially to protect the rights of women against gender-based violence.",
+    "precedents_cited": [
+      "Osman v United Kingdom (2000) 29 EHRR 245 (ECtHR)",
+      "S v Chapman 1997 (3) SA 341 (SCA)",
+      "Knop v Johannesburg City Council 1995 (2) SA 1 (A)"
+    ],
+    "citations": [
+      "[2001] ZACC 22",
+      "2001 (4) SA 938 (CC)",
+      "2001 (10) BCLR 995 (CC)"
+    ],
+    "tags": [
+      "state liability",
+      "due process",
+      "violence against women"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/2001/22.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/2001/22.pdf"
+  },
+  {
+    "case_id": "CCT 19/03",
+    "title": "Alexkor Ltd and Another v Richtersveld Community and Others",
+    "court": "Constitutional Court of South Africa",
+    "date": "2003-10-14",
+    "summary": "A seminal property rights case in which an indigenous community successfully claimed restoration of their ancestral land and mineral rights. The Richtersveld Community had been dispossessed of their land (rich in diamonds) by discriminatory laws during the apartheid era. The Constitutional Court found that, under the customary law of the community (Nama law), they held a communal ownership right in the land and its minerals, which had never been extinguished by the colonial annexation. The Court held that indigenous customary law must be recognised as part of South African law, and that the community\u2019s rights, though unrecognized by colonial and apartheid authorities, survived as \u201ca form of communal ownership\u201d protected by the Constitution. It concluded that the dispossession of the Richtersveld land was racially discriminatory, entitling the community to restitution of the land and diamond mining rights under the Restitution of Land Rights Act 1994.",
+    "precedents_cited": [
+      "Mabo v Queensland (No 2) (1992) 175 CLR 1 (HCA)",
+      "Amodu Tijani v Secretary, Southern Nigeria [1921] 2 AC 399 (PC)",
+      "Restitution of Land Rights Act 22 of 1994"
+    ],
+    "citations": [
+      "[2003] ZACC 18",
+      "2004 (5) SA 460 (CC)",
+      "2003 (12) BCLR 1301 (CC)"
+    ],
+    "tags": [
+      "land law",
+      "customary law",
+      "restitution"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/2003/18.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/2003/18.pdf"
+  },
+  {
+    "case_id": "CCT 49/03",
+    "title": "Bhe and Others v Magistrate, Khayelitsha and Others; Shibi v Sithole and Others; South African Human Rights Commission and Another v President of the Republic of South Africa and Another",
+    "court": "Constitutional Court of South Africa",
+    "date": "2004-10-15",
+    "summary": "A major inheritance law case that struck down the male-only rule of succession in African customary law for being unconstitutional. The applicants challenged the customary law principle of primogeniture (as applied through section 23 of the Black Administration Act 1927 and related regulations), which prevented women and extra-marital children from inheriting. The Constitutional Court held that this regime, which only allowed male descendants or relatives to inherit, violated the equality (section 9) and dignity (section 10) rights of women and children. Langa DCJ, writing for the Court, found the discrimination unjustifiable in a democratic society founded on equality. The Court invalidated the offending provisions and ordered that estates previously governed by African customary law should instead devolve according to the Intestate Succession Act, with modifications to ensure children born outside marriage are included. Bhe thus reformed intestate succession to be gender-equal and compatible with the Bill of Rights.",
+    "precedents_cited": [
+      "Mthembu v Letsela 1997 (2) SA 936 (T)",
+      "Mthembu v Letsela 2000 (3) SA 867 (SCA)",
+      "Intestate Succession Act 81 of 1987"
+    ],
+    "citations": [
+      "[2004] ZACC 17",
+      "2005 (1) SA 580 (CC)",
+      "2005 (1) BCLR 1 (CC)"
+    ],
+    "tags": [
+      "equality",
+      "customary law",
+      "inheritance"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/2004/17.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/2004/17.pdf"
+  },
+  {
+    "case_id": "CCT 39/09",
+    "title": "Mazibuko and Others v City of Johannesburg and Others",
+    "court": "Constitutional Court of South Africa",
+    "date": "2009-10-08",
+    "summary": "The first Constitutional Court case to directly consider the right of access to sufficient water (section 27(1)(b) of the Constitution). Five residents of Soweto challenged the City of Johannesburg\u2019s installation of prepaid water meters and the provision of 6 kilolitres of free water per household per month, arguing that this limited free basic water allocation was inadequate for their needs. The Constitutional Court, in a unanimous judgment by O\u2019Regan J, held that the City\u2019s Free Basic Water policy was reasonable and thus met the state\u2019s obligations under the Constitution. The Court declined to specify a quantified minimum amount of water as a constitutional entitlement, emphasizing a deferential, reasonableness-based approach (as in Grootboom and TAC). It overturned a lower court order that had set a higher free allowance, finding that the City\u2019s ongoing revisions to its water policy fell within the bounds of what is constitutionally \u201creasonable\u201d. Mazibuko affirmed that socio-economic rights do not demand rigid standards from courts, but reasonable government measures.",
+    "precedents_cited": [
+      "Soobramoney v Minister of Health (KwaZulu-Natal) [1997] ZACC 17 (CC)",
+      "Government of the Republic of South Africa v Grootboom [2000] ZACC 19 (CC)",
+      "Minister of Health v Treatment Action Campaign (No 2) [2002] ZACC 15 (CC)"
+    ],
+    "citations": [
+      "[2009] ZACC 28",
+      "2010 (4) SA 1 (CC)",
+      "2010 (3) BCLR 239 (CC)"
+    ],
+    "tags": [
+      "water rights",
+      "socio-economic rights",
+      "municipal services"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/2009/28.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/2009/28.pdf"
+  },
+  {
+    "case_id": "CCT 37/11",
+    "title": "City of Johannesburg Metropolitan Municipality v Blue Moonlight Properties 39 (Pty) Ltd and Another",
+    "court": "Constitutional Court of South Africa",
+    "date": "2011-12-01",
+    "summary": "This judgment clarified the duty of municipalities to provide emergency housing to homeless people evicted by private landowners. In Blue Moonlight, 86 poor occupiers faced eviction from a privately owned building. The Constitutional Court held that even when an eviction is sought by a private owner, a city is constitutionally obliged to provide temporary accommodation to occupants who would become homeless as a result. It found that the City of Johannesburg\u2019s housing policy unlawfully excluded people evicted from private land and was thus unreasonable. The Court ordered that the occupiers could not be evicted unless the City provided alternative shelter for them, and it directed the City to \u201cplan and budget proactively\u201d for housing in eviction cases. This case ensured that municipalities cannot avoid their responsibility to prevent homelessness, even in evictions by private parties.",
+    "precedents_cited": [
+      "Government of the Republic of South Africa v Grootboom [2000] ZACC 19 (CC)",
+      "Port Elizabeth Municipality v Various Occupiers [2004] ZACC 7 (CC)",
+      "Occupiers of 51 Olivia Road v City of Johannesburg [2008] ZACC 1 (CC)"
+    ],
+    "citations": [
+      "[2011] ZACC 33",
+      "2012 (2) SA 104 (CC)",
+      "2012 (2) BCLR 150 (CC)"
+    ],
+    "tags": [
+      "housing",
+      "eviction",
+      "municipal obligation"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/2011/33.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/2011/33.pdf"
+  },
+  {
+    "case_id": "CCT 51/06",
+    "title": "MEC for Education: KwaZulu-Natal and Others v Pillay",
+    "court": "Constitutional Court of South Africa",
+    "date": "2007-10-05",
+    "summary": "A notable education and religious/cultural rights case, Pillay dealt with a Hindu student who was prohibited by her public school from wearing a nose stud (a mark of her Tamil Hindu culture and religion) in contravention of the school\u2019s uniform code. The Constitutional Court ruled that the school\u2019s failure to grant her an exemption amounted to unfair discrimination on grounds of religion and culture, violating section 9 of the Constitution. The majority held that the Constitution celebrates diversity and that reasonable accommodation of sincerely held religious or cultural practices is required in schools. Forcing the learner to choose between her education and her cultural identity was unjustifiable. The Court ordered the school to permit the nose stud as an exemption to the dress code, affirming that pluralism and tolerance must be respected in educational institutions.",
+    "precedents_cited": [
+      "Christian Education South Africa v Minister of Education [2000] ZACC 11; 2000 (4) SA 757 (CC)",
+      "Prince v President of the Law Society of the Cape of Good Hope [2002] ZACC 1; 2002 (2) SA 794 (CC)",
+      "Mandla (Sewa Singh) v Dowell Lee [1983] 2 AC 548 (HL, UK)"
+    ],
+    "citations": [
+      "[2007] ZACC 21",
+      "2008 (1) SA 474 (CC)",
+      "2008 (2) BCLR 99 (CC)"
+    ],
+    "tags": [
+      "education law",
+      "religious freedom",
+      "cultural rights"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/2007/21.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/2007/21.pdf"
+  },
+  {
+    "case_id": "CCT 50/16",
+    "title": "Daniels v Scribante and Another",
+    "court": "Constitutional Court of South Africa",
+    "date": "2017-05-11",
+    "summary": "A recent case on land tenure and dignity, Daniels v Scribante concerned an occupier of a farm dwelling under the Extension of Security of Tenure Act 62 of 1997 (ESTA) who wished to make basic improvements to her home (such as leveling floors and installing water and electricity) to make it habitable. The Constitutional Court held that an occupier has the right to make reasonable improvements for dignified living conditions, even without the consent of the owner. Interpreting ESTA in light of the Constitution\u2019s values of dignity and equality, the Court found that preventing such improvements would perpetuate historical indignities. The majority (Madlanga J) ruled that the occupier\u2019s right to human dignity allows her to bring her dwelling to a standard fit for human habitation at her own expense. The case underscores that security of tenure under ESTA includes living with basic dignity.",
+    "precedents_cited": [
+      "Hattingh v Juta [2013] ZACC 5; 2013 (3) SA 275 (CC)",
+      "Jaftha v Schoeman; Van Rooyen v Stoltz [2004] ZACC 25; 2005 (2) SA 140 (CC)",
+      "Port Elizabeth Municipality v Various Occupiers [2004] ZACC 7 (CC)"
+    ],
+    "citations": [
+      "[2017] ZACC 13",
+      "2017 (4) SA 341 (CC)",
+      "2017 (8) BCLR 949 (CC)"
+    ],
+    "tags": [
+      "land rights",
+      "tenure security",
+      "human dignity"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/2017/13.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/2017/13.pdf"
+  },
+  {
+    "case_id": "CCT 143/15 & CCT 171/15",
+    "title": "Economic Freedom Fighters and Others v Speaker of the National Assembly and Others; Democratic Alliance v Speaker of the National Assembly and Others",
+    "court": "Constitutional Court of South Africa",
+    "date": "2016-03-31",
+    "summary": "Popularly known as the \u201cNkandla case,\u201d this judgment reinforced the binding nature of the Public Protector\u2019s remedial actions and the accountability of the President and Parliament. The EFF and DA sought to enforce the Public Protector\u2019s findings that President Jacob Zuma must repay state funds spent on non-security upgrades to his Nkandla residence. The Constitutional Court unanimously held that the Public Protector\u2019s \u201cappropriate remedial action\u201d is binding and must be complied with unless set aside by a court. It found that both the President and the National Assembly had failed in their constitutional duties: the President violated his oath of office by disregarding the Public Protector\u2019s remedial action, thus failing to \u201cuphold, defend and respect\u201d the Constitution; and the National Assembly breached its duty by exonerating the President instead of ensuring compliance. The Court ordered the President to reimburse the state for the misused funds as determined by the National Treasury, and censured the core branches of government for flouting the rule of law.",
+    "precedents_cited": [
+      "South African Broadcasting Corporation SOC Ltd v Democratic Alliance [2015] ZASCA 156; [2016] 1 All SA 332 (SCA)",
+      "President of the Republic of South Africa v Office of the Public Protector and Others [2018] ZAGPPHC 2",
+      "Chief Lesapo v North West Agricultural Bank [1999] ZACC 16; 2000 (1) SA 409 (CC)"
+    ],
+    "citations": [
+      "[2016] ZACC 11",
+      "2016 (3) SA 580 (CC)",
+      "2016 (5) BCLR 618 (CC)"
+    ],
+    "tags": [
+      "constitutional law",
+      "separation of powers",
+      "accountability"
+    ],
+    "jurisdiction": "Constitutional Court",
+    "source_link": "https://www.saflii.org/za/cases/ZACC/2016/11.html",
+    "language": "English",
+    "pdf_link": "https://www.saflii.org/za/cases/ZACC/2016/11.pdf"
+  }
+]
