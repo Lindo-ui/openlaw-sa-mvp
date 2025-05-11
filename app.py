@@ -22,7 +22,7 @@ Our mission is to make law more **accessible**, **transparent**, and **usable** 
 This app is currently in **public beta**.  
 Some features are still being built — but we’d love your feedback!
 
-👉 [Send us feedback](mailto:feedback.dotsimple@gmail.com)
+👉 [Send us feedback](https://forms.gle/9wnqR9jbRy6M5SMi8)
 """, unsafe_allow_html=True)
 
 st.markdown("""
@@ -85,6 +85,22 @@ OpenLaw SA provides legal information -- not legal advice.
 Please consult a qualified legal professional before making legal decisions. Our summaries are for reference and should always be cross-checked with the full judgment.
 """)
 
+
+st.markdown("""
+### 🚀 Join the Beta Waiting List
+
+OpenLaw SA is launching soon with advanced legal search, citation networks, watchlists, and structured case data.
+
+Be the first to access premium features like:
+- Smart precedent mapping
+- Saved research trails
+- Legal-grade API endpoints
+
+📬 [Join the Waiting List](https://forms.gle/9wnqR9jbRy6M5SMi8)  
+We’ll contact you as soon as new slots open.
+""", unsafe_allow_html=True)
+
+
 # --- FAQ Section ---
 st.markdown("### ❓ Frequently Asked Questions (FAQs)")
 
@@ -104,7 +120,7 @@ with st.expander("🔐 Do you store my personal data?"):
     st.markdown("We currently do not require user accounts. If/when account features launch, your email or usage info will be stored securely and never sold or shared without consent.")
 
 with st.expander("📬 How do I give feedback or join the beta?"):
-    st.markdown("Submit your details via our [beta waiting list form](https://forms.gle/YOUR-LINK), or email us at [feedback.dotsimple@gmail.com](mailto:feedback.dotsimple@gmail.com)")
+    st.markdown("Submit your details via our [beta waiting list form](https://forms.gle/YOUR-LINK), or email us at [feedback.dotsimple@gmail.com](https://forms.gle/9wnqR9jbRy6M5SMi8)")
 
 
 with st.expander("📘 What does OpenLaw SA cover (and not cover)?"):
@@ -130,5 +146,5 @@ st.markdown("""
 ---
 © 2025 **Dotsimple Holdings (Pty) Ltd**  
 OpenLaw SA is a product of Dotsimple, built to make law accessible, open, and actionable.  
-Questions or ideas? [Send us feedback](mailto:feedback.dotsimple@gmail.com)
+Questions or ideas? [Send us feedback](https://forms.gle/9wnqR9jbRy6M5SMi8)
 """, unsafe_allow_html=True)
